@@ -1,4 +1,4 @@
-# Peruvian agriculture analysis
+# Peruvian agriculture analysis for import companies
 
 This report gives insights to import companies related to agriculture about where is their niche market and when is the seedtime and harvest of different crops in order to plan their stock to full fill the demand. 
 
